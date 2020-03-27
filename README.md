@@ -2,9 +2,9 @@
 # Be the hero
 
 
-## kmex
+## knex
 
-- yarn add kmex
+- yarn add knex
 - yarn add sqlite3 (ou outro db)
 - npx knex init
 - Configurar diretório onde a migration vai ser criada
